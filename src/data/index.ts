@@ -16,6 +16,7 @@ import { nextjsRules } from "./rules/nextjs";
 import { pythonRules } from "./rules/python";
 import { railsRules } from "./rules/rails";
 import { reactNativeRules } from "./rules/react-native";
+import { remixRules } from "./rules/remix";
 import { swiftuiRules } from "./rules/swift";
 import { tauriRules } from "./rules/tauri";
 import { unityCSharpRules } from "./rules/unity-c-sharp";
